@@ -7,4 +7,4 @@ import httpimport
 
 with httpimport.github_repo('siddiqqulhakim', 'test', branch='master'):
     import test
-test.test()
+test.say()

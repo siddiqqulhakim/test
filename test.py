@@ -1,2 +1,2 @@
 def say():
-    print('HELLO')
+    print('hello bangsat')
